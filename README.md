@@ -10,7 +10,7 @@ Senior Data Analyst with 6+ years of experience turning complex data into action
 
 **Analytics and BI:** SQL, Python, PySpark, Tableau, Power BI, Advanced Excel
 
-**Databases:** Amazon Redshift, SQL Server, PostgreSQL, Snowflake
+**Databases:** Amazon Redshift, SQL Server, PostgreSQL
 
 **Other:** Git, Agile/Scrum, Dimensional Modeling, Star Schema Design
 
