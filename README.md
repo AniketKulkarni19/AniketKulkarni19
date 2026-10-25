@@ -1,6 +1,6 @@
 # Hi, I'm Aniket Kulkarni
 
-Senior Data Analyst with 6+ years of experience turning complex data into actionable business insights. I build end-to-end data pipelines, design data warehouses, and increasingly work on machine learning systems that ship — not just notebooks.
+Senior Data Analyst with 7.5+ years of experience turning complex data into actionable business insights. I build end-to-end data pipelines, design data warehouses, and increasingly work on machine learning systems that ship — not just notebooks.
 
 ## What I Work With
 
@@ -31,4 +31,4 @@ End-to-end AWS data pipeline analyzing 33M+ US domestic flight records (2021–2
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/aniketkulkarni13/)
-- [Portfolio](https://aniketkulkarni.carrd.co/)
+- [Portfolio](https://aniketkulkarni19.github.io/)
